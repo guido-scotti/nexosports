@@ -90,7 +90,7 @@ def email_nosuscriptos():
                             <tr>
                                 <td align="center" style="padding: 0 9px;">
                                 <a href="https://www.instagram.com/nexosportshr/" target="_blank" style="display:inline-block;">
-                                    <img src="https://guido-scotti.github.io/nexosports/src/img/instagramlogo.png" width="30" height="30" alt="Instagram"
+                                    <img src="https://guido-scotti.github.io/nexosports/src/img/instagramlogo.png" width="28" height="28" alt="Instagram"
                                         style="display:block; border:0; background-color:#07264F;">
                                 </a>
                                 </td>
