@@ -36,7 +36,7 @@ def email_nosuscriptos():
                         <tr>
                         <td style="padding-left: 30px; padding-top: 30px; padding-bottom: 30px;">
                             <h3 style="margin: 0; font-size: 18px; font-weight: light; color: #000000; font-family: 'Verdana';">Bienvenido a</h3>
-                            <h1 style="margin: 0; font-size: 38px; font-weight: bold; color: #1E40AF; font-family: 'Trebuchet MS';">NEXO SPORTS</h1>
+                            <h1 style="margin: 0; font-size: 38px; font-weight: 800; color: #1E40AF; font-family: 'Trebuchet MS';">NEXO SPORTS</h1>
                             <p style="margin: 0; font-size: 18px; font-weight: bold; color: #17A3D0; font-family: 'Trebuchet MS';">Conectamos profesionales. Impulsamos clubes.</p>
                         </td>
                         </tr>
@@ -96,7 +96,7 @@ def email_nosuscriptos():
                                 </td>
                                 <td align="center" style="padding: 0 4px;">
                                 <a href="https://www.facebook.com/profile.php?id=61583495402971" target="_blank" style="display:inline-block;">
-                                    <img src="https://guido-scotti.github.io/nexosports/src/img/facebooklogo.png" width="32" height="32" alt="Facebook"
+                                    <img src="https://guido-scotti.github.io/nexosports/src/img/facebook.png" width="32" height="32" alt="Facebook"
                                         style="display:block; border:0;">
                                 </a>
                                 </td>
