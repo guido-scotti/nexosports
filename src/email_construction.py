@@ -9,6 +9,8 @@ asunto_email = f"Conectamos profesionales. Impulsamos clubes."
 # ===================================
 def email_nosuscriptos():
 
+    # link para form de cancelacion de suscripcion -> https://e1dd6c42.sibforms.com/serve/MUIFAEweosC0oQfkwjGidkb_0sCTSEsDVr1rrpmJu5RxyCVYv3HdyuIP1BoYPg45hv4BGmX8DSa4D2knj9XSkFpE2sB3lLK0APCoOPsW2zIXdwqha7QBPnDIz8DVCbYyGsVnRpNHvpdlQBnoZzrEpP9glfJueKFrWpKmOQ4owThpAwx-80pWIrcc1Y-zO9fVBBAKSGh1hoLee5u2kw==
+    
     mensaje = EmailMessage()
     mensaje["Subject"] = asunto_email
     mensaje["From"] = EMAIL_ORIGEN
@@ -70,7 +72,7 @@ def email_nosuscriptos():
                             ¡La suscripción es gratuita!
                             </h1>
 
-                            <a href="https://4c9caead.sibforms.com/serve/MUIFABbYSgP18fasIENUcwcDDnI89HEis5gHeny8Qx5A2g2aH5SL-axPFvL9yzAgHofT8EwQEzvNpMbNsJ3emsWTlUuDlDldJtOsf72wNmjsy7gQU70vyINhhhdP-j7v4cBLHByqkPsdJ65l3R5s7lCx7-lKQFY3hpNLutyAnoZA5zl8E7Fc2Ln2YA-0Tb38FLzHoppC3q9Nm50_tg=="
+                            <a href="https://e1dd6c42.sibforms.com/serve/MUIFAAfr5DZ8p-ax7B5bk-uKwQgBbgOjeFf4sIYNOHK_kOju8oqzKFNEzdeF--fEcxlEzOPHwBqYUbYkYRYk6L3bN91pj-cXZmeRS57DbAr8QpR4SBY2vfas2Qf4fJyh7ucYbwBa2rIwpGxCYFKBsWA_GOn6OZX2f8-el0o1E6uNNDMaOZeDGLj2Mnu2y2WhwUgAlHuqhL9xLSUEeA=="
                             style="display:inline-block; background-color:#17A3D0; color:white; padding:15px 30px;
                             text-decoration:none; border-radius:22px; font-size:18px; margin-top:15px; margin-bottom:15px; font-family: 'Trebuchet MS';">
                             <strong>SUSCRIBIRME AHORA</strong>
@@ -90,7 +92,7 @@ def email_nosuscriptos():
                             <tr>
                                 <td align="center" style="padding: 0 9px;">
                                 <a href="https://www.instagram.com/nexosportshr/" target="_blank" style="display:inline-block;">
-                                    <img src="https://guido-scotti.github.io/nexosports/src/img/instagramlogo.png" width="28" height="28" alt="Instagram"
+                                    <img src="https://guido-scotti.github.io/nexosports/src/img/instagramlogo.png" width="29" height="29" alt="Instagram"
                                         style="display:block; border:0; background-color:#07264F;">
                                 </a>
                                 </td>
@@ -111,11 +113,11 @@ def email_nosuscriptos():
 
                         <!-- derechos -->
                         <p style="margin: 12px 0 6px 0; font-size: 13px; color: #ffffffcc; font-family: Verdana, sans-serif;">
-                            © 2025 <strong>Info Total Cripto</strong>. Todos los derechos pertenecen a sus respectivas fuentes.
+                            © 2025 <strong>Nexo Sports</strong>. Todos los derechos pertenecen a sus respectivas fuentes.
                         </p>
 
                         <!-- link suscripción -->
-                        <a href="https://4c9caead.sibforms.com/serve/MUIFABbYSgP18fasIENUcwcDDnI89HEis5gHeny8Qx5A2g2aH5SL-axPFvL9yzAgHofT8EwQEzvNpMbNsJ3emsWTlUuDlDldJtOsf72wNmjsy7gQU70vyINhhhdP-j7v4cBLHByqkPsdJ65l3R5s7lCx7-lKQFY3hpNLutyAnoZA5zl8E7Fc2Ln2YA-0Tb38FLzHoppC3q9Nm50_tg=="
+                        <a href="https://e1dd6c42.sibforms.com/serve/MUIFAAfr5DZ8p-ax7B5bk-uKwQgBbgOjeFf4sIYNOHK_kOju8oqzKFNEzdeF--fEcxlEzOPHwBqYUbYkYRYk6L3bN91pj-cXZmeRS57DbAr8QpR4SBY2vfas2Qf4fJyh7ucYbwBa2rIwpGxCYFKBsWA_GOn6OZX2f8-el0o1E6uNNDMaOZeDGLj2Mnu2y2WhwUgAlHuqhL9xLSUEeA=="
                             style="color: #17A3D0; text-decoration: none; font-size: 13px; font-family: Verdana, sans-serif;">
                             Suscribirse ahora
                         </a>
